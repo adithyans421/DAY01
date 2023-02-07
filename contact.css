@@ -1,0 +1,15 @@
+
+body{
+    background-image: url("./images/wall.jpg");
+    
+    
+     background-repeat: no-repeat;
+    background-size: cover;
+}
+a{
+    color: rgb(99, 10, 99);
+    font-size: 15px;
+    display: inline;
+    text-align: right;
+    text-decoration: none;
+}

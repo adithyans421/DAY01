@@ -1,0 +1,31 @@
+body{
+    background-image: url("./images/wall.jpg");
+    
+    /* background-position: center; */
+     background-repeat: no-repeat;
+    background-size: cover;
+}
+    
+
+/* body{
+    background-color: rgba(65, 187, 235, 0.212);
+} */
+#h1{
+    color: rgb(219, 11, 105);
+}
+a{
+    color: rgb(99, 10, 99);
+    font-size: 15px;
+    display: inline;
+    text-align: right;
+    text-decoration: none;
+ 
+
+}
+#intro{
+    color: rgb(209, 21, 106);
+}
+.me
+{
+    color: rgb(10, 59, 99);
+}

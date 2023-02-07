@@ -1,0 +1,26 @@
+h1{
+    color: red;
+}
+a{
+    text-decoration: none;
+    cursor: grab;
+}
+#fir{
+    color: blue;
+}
+#sec{
+    color: yellow;
+}
+#thir{
+    color: gray;
+}
+.cls{
+    color: magenta;
+
+}
+.div1{
+    color: aqua;
+    margin: 50px;
+    padding: 50px;
+    border-style:dashed ;
+}

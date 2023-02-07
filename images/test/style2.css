@@ -1,0 +1,14 @@
+.div1{
+    /* color: rgb(173, 89, 11);
+    margin: 50px;
+    padding: 50px;
+    border-style:dashed ; */
+    border: 2px dashed black;
+    /* padding: 0px 1000px;*/
+    display: flex;
+   justify-content: center;  /* for centering the contents */
+    align-items: center;
+    width: 200px;
+    height: 200px;
+
+}
